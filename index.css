@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: Copperplate;
+    font-size: 18px;
+}
+
+#head {
+    text-align: center;
+    background: wheat
+}
+
+#homescore, #guestscore {
+    border: 3px solid black;
+    width: 70px;
+    background: black;
+    border-radius: 5px;
+    text-align: center;
+    font-family: Copperplate;
+    color: red;
+    justify-content: center;
+
+    }
+    
+    
+#butt {
+    font-family: inherit;
+    background: wheat
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: #d68c45;
+    height: 400px;
+    color: beige;
+    justify-content: center;
+    gap: 50px;
+    
+}
